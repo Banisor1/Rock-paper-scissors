@@ -1,0 +1,54 @@
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.exe
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.deps.json
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.runtimeconfig.json
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.dll
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.pdb
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.AssemblyReference.cache
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.Form1.resources
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.GenerateResource.cache
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.AssemblyInfoInputs.cache
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.AssemblyInfo.vb
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.CoreCompileInputs.cache
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.dll
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\refint\FoaieFoarfecaCiocan.dll
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.pdb
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.genruntimeconfig.cache
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\ref\FoaieFoarfecaCiocan.dll
+D:\Programe\C#\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.Resources.resources
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.exe
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.deps.json
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.runtimeconfig.json
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.pdb
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.AssemblyReference.cache
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.Form1.resources
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.Resources.resources
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.GenerateResource.cache
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.AssemblyInfoInputs.cache
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.AssemblyInfo.vb
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.CoreCompileInputs.cache
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\refint\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.pdb
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.genruntimeconfig.cache
+D:\FACULTATE\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\ref\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.exe
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.deps.json
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.runtimeconfig.json
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\bin\Debug\net6.0-windows\FoaieFoarfecaCiocan.pdb
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.AssemblyReference.cache
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.Form1.resources
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.Resources.resources
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.GenerateResource.cache
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.AssemblyInfoInputs.cache
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.AssemblyInfo.vb
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.vbproj.CoreCompileInputs.cache
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\refint\FoaieFoarfecaCiocan.dll
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.pdb
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\FoaieFoarfecaCiocan.genruntimeconfig.cache
+D:\FACULTATE\ANU I\BPO\FoaieFoarfecaCiocan\FoaieFoarfecaCiocan\obj\Debug\net6.0-windows\ref\FoaieFoarfecaCiocan.dll
